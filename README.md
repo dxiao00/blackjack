@@ -6,7 +6,7 @@ hit stand only.py        &nbsp;&nbsp;&nbsp;&emsp;&emsp;| Implements basic strate
 
 no_card_counting.py      &emsp;| Implements basic strategy if doubling, splitting, and surrendering are available
 
-martingale.py            &nbsp;&emsp;&emsp;&emsp;&emsp;| Implements martingale betting strategy
+martingale.py            &emsp;&emsp;&emsp;&emsp;| Implements martingale betting strategy
 
 card_counting.py         &nbsp;&nbsp;&emsp;&emsp;| Implements changes to playing strategy (deviations) based on card counting 
 
