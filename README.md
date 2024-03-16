@@ -3,7 +3,12 @@ Our project will be an analysis of blackjack and various blackjack strategies. W
 
 # Python files:
 hit stand only.py    |  Implements basic strategy if hit and stand are the only options available
+
 no_card_counting.py  |  Implements basic strategy if doubling, splitting, and surrendering are available
+
 martingale.py        |  Implements martingale betting strategy
+
 card_counting.py     |  Implements changes to playing strategy (deviations) based on card counting 
+
 cc_changing_bets.py  |  Implements changes to playing strategy and betting strategy based on card counting
+
